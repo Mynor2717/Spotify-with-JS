@@ -3,9 +3,9 @@
 /*
 const NOW_PLAYING_ENDPOINT = 'https://api.spotify.com/v1/me/player/currently-playing';
 const TOKEN_ENDPOINT = 'https://accounts.spotify.com/api/token';
-const client_id = '0782e656578048f9bc878b1bb39133eb';
-const client_secret = 'd5feb3c434564d0a9ff3b8eeb279cfd0';
-const refresh_token = 'AQDwT-91IyiTYgFlD3L95TQrqFNxr_Gm7sipyodWoI9NpOPZ4svLyAtskYSEgyE__hX6BaDOjcmr6Q0yeqZ31ZOyB3puOZ_TuIZc6RRPpqfy5gfNPl0ec9EB1lMieDioI4c';
+const client_id = '';
+const client_secret = '';
+const refresh_token = '';
 */
 
 /*const ApiController = (function() {
@@ -38,9 +38,9 @@ const refresh_token = 'AQDwT-91IyiTYgFlD3L95TQrqFNxr_Gm7sipyodWoI9NpOPZ4svLyAtsk
 })();
 
 */
-const client_id = '0782e656578048f9bc878b1bb39133eb';
-const client_secret = 'd5feb3c434564d0a9ff3b8eeb279cfd0';
-const refresh_token = 'AQDwT-91IyiTYgFlD3L95TQrqFNxr_Gm7sipyodWoI9NpOPZ4svLyAtskYSEgyE__hX6BaDOjcmr6Q0yeqZ31ZOyB3puOZ_TuIZc6RRPpqfy5gfNPl0ec9EB1lMieDioI4c';
+const client_id = '';
+const client_secret = '';
+const refresh_token = '';
 
 let access_token;
 
